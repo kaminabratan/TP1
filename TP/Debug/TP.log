@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\artem\source\repos\TP\main.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  TP.vcxproj -> C:\Users\artem\source\repos\TP\Debug\TP.exe
